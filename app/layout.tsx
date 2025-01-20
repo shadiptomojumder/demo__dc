@@ -32,7 +32,7 @@ export default function RootLayout({
       <body className={NotoBengali.className}>
         <ThemeRegistry>
           <Provider>
-            <Header>opp</Header>
+            <Header>header will be here</Header>
             <div className="container mx-auto">{children}</div>
           </Provider>
         </ThemeRegistry>
